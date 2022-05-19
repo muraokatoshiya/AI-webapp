@@ -1,3 +1,0 @@
-pyngrok==4.1.1
-streamlit==1.9.0
-pip==22.1
