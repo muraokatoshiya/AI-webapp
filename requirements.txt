@@ -1,0 +1,3 @@
+pyngrok
+streamlit
+pip==22.1
