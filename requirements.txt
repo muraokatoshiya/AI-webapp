@@ -1,0 +1,6 @@
+pyngrok
+streamlit
+torch
+torchvision
+Pillow
+matplotlib
