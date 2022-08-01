@@ -1,5 +1,0 @@
-pyngrok
-streamlit
-torch
-torchvision
-Pillow
