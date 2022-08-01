@@ -1,7 +1,0 @@
-pyngrok
-streamlit
-torch
-torchvision
-Pillow
-pyplot
-matplotlib
